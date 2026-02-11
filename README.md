@@ -1,2 +1,2 @@
 # ECommerce-Delivery-and-Seller-Performance-Analytics
-Enterprise-grade Power BI report analyzing eCommerce delivery performance, SLA compliance, seller reliability, and operational bottlenecks using advanced DAX and drillthrough design.
+This project presents an end-to-end Power BI analytics solution for monitoring eCommerce delivery performance, seller accountability, and operational efficiency. The dashboard is structured for executive visibility and operational diagnostics, featuring SLA compliance tracking, delay root-cause analysis, and performance drillthrough pages.
