@@ -1,10 +1,12 @@
 # ECommerce-Delivery-and-Seller-Performance-Analytics
 📖 Project Overview
+---------------------
 
 Analyzed an E-Commerce dataset to uncover insights on revenue growth, customer experience, logistics performance, and seller reliability.
 Designed for executive decision-making and operational optimization using interactive dashboards with drill-through pages, toggle visuals, and seller performance segmentation.
 
 🎯 Business Objectives
+-------------------------
 
 Monitor revenue trends & top-performing categories
 
@@ -17,7 +19,8 @@ Detect high-risk sellers driving delays
 Optimize freight costs across categories & distances
 
 🗂️ Dashboard Highlights
-Executive Page
+-------------------------
+**Executive Page**
 
 KPIs: Total Revenue, Orders, AOV, On-Time %, Average Rating
 
@@ -25,7 +28,7 @@ Visuals & Insights:
 
 Revenue & Orders Trend → Reveals seasonal growth & capacity stress
 
-Revenue by Category (Heatmap) → Shows high-revenue but high-delay categories
+Revenue by Category (Heatmap) → Shows high-revenue categories
 
 Revenue by Payment Type → Identifies dominant transaction channels
 
